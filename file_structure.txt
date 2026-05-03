@@ -1,0 +1,13 @@
+project/
+│
+├── data/
+│   └── final_dataset.csv
+│
+├── notebooks/
+│   ├── 01_eda.ipynb
+│   ├── 02_baseline_model.ipynb
+│   ├── 03_full_model.ipynb
+│   └── 04_analysis.ipynb
+│
+├── src/ (optional, advanced)
+│   └── preprocessing.py

@@ -295,22 +295,3 @@ Tree-based ensemble methods outperformed traditional regression approaches due t
 
 ---
 
-# Suggested Project Structure
-
-```bash
-project/
-│
-├── data/
-│   └── final_dataset.csv
-│
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_rainfall_only_model.ipynb
-│   ├── 03_no_lag_model.ipynb
-│   ├── 04_full_model.ipynb
-│   ├── 05_regression_models.ipynb
-│   └── 06_interpretability_analysis.ipynb
-│
-├── visuals/
-├── models/
-└── README.md
